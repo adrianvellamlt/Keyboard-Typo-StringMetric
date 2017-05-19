@@ -1,0 +1,6 @@
+D:\OneDrive\School\Bsc Software Development\DSA\Home Assignment\QwertyKeyboard\QwertyKeyboard\bin\Debug\QwertyKeyboard.exe.config
+D:\OneDrive\School\Bsc Software Development\DSA\Home Assignment\QwertyKeyboard\QwertyKeyboard\bin\Debug\QwertyKeyboard.exe
+D:\OneDrive\School\Bsc Software Development\DSA\Home Assignment\QwertyKeyboard\QwertyKeyboard\bin\Debug\QwertyKeyboard.pdb
+D:\OneDrive\School\Bsc Software Development\DSA\Home Assignment\QwertyKeyboard\QwertyKeyboard\obj\Debug\QwertyKeyboard.csprojResolveAssemblyReference.cache
+D:\OneDrive\School\Bsc Software Development\DSA\Home Assignment\QwertyKeyboard\QwertyKeyboard\obj\Debug\QwertyKeyboard.exe
+D:\OneDrive\School\Bsc Software Development\DSA\Home Assignment\QwertyKeyboard\QwertyKeyboard\obj\Debug\QwertyKeyboard.pdb
